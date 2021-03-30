@@ -1,0 +1,3 @@
+[submodule "RepoChild"]
+	path = RepoChild
+	url = https://github.com/jmusselwhite/RepoChild.git
