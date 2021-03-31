@@ -1,7 +1,8 @@
+
 [submodule "child1"]
 	path = child1
-	url = git@github.com/jmusselwhite/RepoChild.git
+	url = git@github.com:jmusselwhite/RepoChild.git
+	branch = main
 [submodule "child2"]
 	path = child2
 	url = git@github.com:jmusselwhite/RepoChild.git
-	branch = main
